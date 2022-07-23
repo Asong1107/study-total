@@ -1,13 +1,13 @@
-package com.asong.study_total;
+package com.asong.rabbitmq.producer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StudyTotalApplicationTests {
+class ProducerApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
