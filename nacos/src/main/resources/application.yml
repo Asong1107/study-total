@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: nacos-study
+  cloud:
+    nacos:
+      discovery:
+        server-addr: http://localhost:8848
+        username: nacos
+        password: nacos
+server:
+  port: 8090
